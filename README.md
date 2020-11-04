@@ -1,4 +1,4 @@
-# AutoJs-Docs
+# AutoTools-Docs
 
 AutoTools文档。可在 https://github.com/zhangshu345/AutoTools-Docs-master 浏览。
 
